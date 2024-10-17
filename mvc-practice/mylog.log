@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-08-06T06:17:32.340281Z</date>
+  <millis>1722925052340</millis>
+  <nanos>281000</nanos>
+  <sequence>0</sequence>
+  <logger>view</logger>
+  <level>INFO</level>
+  <class>assignments.view.WhatsappView</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>User entered option 89</message>
+</record>
+<record>
+  <date>2024-08-06T06:17:32.401956Z</date>
+  <millis>1722925052401</millis>
+  <nanos>956000</nanos>
+  <sequence>1</sequence>
+  <logger>view</logger>
+  <level>INFO</level>
+  <class>assignments.view.WhatsappView</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Invalid option</message>
+</record>
