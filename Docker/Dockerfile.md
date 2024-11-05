@@ -1,5 +1,5 @@
 [Best practices](https://docs.docker.com/build/building/best-practices/)
-A Dockerfile is a text-based document that's used to create a [[container image]]. It provides instructions to the image builder on the commands to run, files to copy, startup command, and more.
+A Dockerfile is a text-based document that's used to create a [[Container image]]. It provides instructions to the image builder on the commands to run, files to copy, startup command, and more.
 
 ```Dockerfile
 FROM <base-image>
